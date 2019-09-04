@@ -1,0 +1,4 @@
+Benchmark #1: ./target/release/e_69
+  Time (mean ± σ):      15.0 ms ±   0.8 ms    [User: 11.3 ms, System: 3.7 ms]
+  Range (min … max):    13.7 ms …  17.7 ms    184 runs
+ 

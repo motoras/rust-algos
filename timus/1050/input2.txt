@@ -1,0 +1,1 @@
+There is no \q" in" this  sentence." \\parShe s\"aid, "\thinspace `Enough!', he said."\endinput

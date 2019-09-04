@@ -1,0 +1,7 @@
+[package]
+name = "t1050"
+version = "0.1.0"
+authors = ["romi"]
+edition = "2018"
+
+[dependencies]

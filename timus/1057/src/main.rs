@@ -2,7 +2,7 @@
  * We are searching for numbers which a given base b, have exactly k 1's and all other digits zero.
  * To check if a number match this condition, could be done by simply converting it  in a given base
  * and look at it's digits. Howwever the intervals could be quite large and such a solution will run
- * out of time, so we must find a way to count themwithout checking every given number.
+ * out of time, so we must find a way to count them without checking every given number.
  * First observation is that F(X,Y) = F(1,Y) - F(1,X-1) so we only need to count all such numbers from
  * 1 to a given bounf X. Second observation is that All the number in base B no longer than N digits which
  * satisfy the problem's conditions are the number of K-combinations by N. In order to count all such numbers

@@ -1,7 +1,7 @@
 /**
  * Pretty much straigth forward solution. It's just a matter of chosing the 
  * right data structures. I uised a bit set to find fast the next available 
- * memory location, and to check if a location is used or not. Than store for ecah location its 
+ * memory location, and to check if a location is used or not. Than store for each location its 
  * expiration time, and sort them by expiration in a sorted set.
  */
 use std::collections::BTreeSet;
